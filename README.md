@@ -1,0 +1,2 @@
+# JavaOdev
+Not ortalamasi  hesaplama 
